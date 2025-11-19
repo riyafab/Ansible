@@ -12,4 +12,6 @@ free -g
 
 nproc
 
+netstat -tulnp
+
 ps -ef
