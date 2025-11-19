@@ -12,6 +12,8 @@ free -g
 
 nproc
 
+uptime
+
 netstat -tulnp
 
 ps -ef
