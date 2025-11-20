@@ -1,2 +1,3 @@
-# Shell-Script
-Shell scripts for DevOps automation — including server setup, log rotation, user management, cron-based scheduling, package updates, backups, and CI/CD task automation.
+# Ansible-playbook
+
+My Ansible practice repo containing hands-on examples, playbooks, roles, inventory files, and automation exercises for real-world DevOps workflows
